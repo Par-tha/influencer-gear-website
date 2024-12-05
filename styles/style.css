@@ -51,7 +51,7 @@ nav li a{
     color: rgb(120, 120, 133);
 }
 .header-img{
-    background-image: url('./images/main-camera.png');
+    background-image: url( '/images/main-camera.png' );
     background-repeat: no-repeat;
     background-position: center;
 }
